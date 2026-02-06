@@ -1,28 +1,19 @@
-University Enrollment System
-Overview
+# University Enrollment System
 
-This is a Java OOPS-based console application that simulates a University Course Enrollment System using real-world entities.
+## Project Description
+The University Enrollment System is a Java-based console application designed to model a real-world course enrollment process using Object-Oriented Programming (OOPS) principles. The system manages students, professors, and courses, and ensures controlled enrollment through custom exception handling when course capacity limits are exceeded.
 
-Key Features
+## Key Features
+- Object-oriented design using classes and objects
+- Encapsulation for secure data handling
+- Polymorphism through method overriding
+- Aggregation between courses, professors, and students
+- Custom exception handling for enrollment limits
 
-Implements Object-Oriented Programming (OOPS) concepts
+## Technologies Used
+- Java
+- Object-Oriented Programming (OOPS)
+- Exception Handling
 
-Manages Students, Professors, and Courses
-
-Handles course capacity using custom exception handling
-
-Technologies Used
-
-Java
-
-OOPS Concepts
-
-Exception Handling
-
-How to Run
-
-Open the project in IntelliJ IDEA or Eclipse
-
-Run Main.java
-
-View output in the console
+## Execution
+Run the Main.java file to execute the application and view the output in the console.
